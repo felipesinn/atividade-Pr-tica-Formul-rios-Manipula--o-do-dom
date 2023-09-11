@@ -1,4 +1,4 @@
-# atividade-Pratica-Formularios-manipula-do-dom
+# Atividade Prática - Formulários e Manipulação do DOM
 
 ## Funcionalidades
 
